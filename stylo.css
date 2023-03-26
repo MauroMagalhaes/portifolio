@@ -1,46 +1,75 @@
-<style>
-body{
+body {
     background-color: rgb(219, 227, 228);
 }
-#h1{
-    color: white;
-    text-align: center;
-}
 
-p{
-    text-align: center;
-}
-#titulo{
+#titulo {
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-.minha-class{
+
+#header-background {
+    padding-bottom: 10px;
+    margin: 0px;
     
-    font-size: 20px;
-    color:royalblue
-    ;
-}
-.p2{
-background-color: antiquewhite;
-}
-#background{
-
-background-color: black;
+    background-color: black;
 }
 
+#header-content {
 
-#h2_habilidades{
+    width: 1571px;
+    text-align: center;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    
+
+}
+#header-content h2 {
+
+    font-size: 25px;
+    color: white;
+    
+
+}
+#header-text {
+
+    text-align: center;
+    margin-bottom: 100px;
+
+}
+
+#header-text h1 {
+    padding: 20px;
+    color: burlywood;
+    margin-top: -5px;
+}
+
+#h2_habilidades {
 
     font-size: 15px;
 }
-.format_img{
+
+.format_img {
 
     width: 300px;
     border-radius: 120px;
 }
-.text_title{
+
+.text_title {
     text-align: center;
     font-size: 20px;
 
 }
+.hobbyes-content{
 
+    text-align: center;
+}
+.minha-class {
+
+    font-size: 20px;
+    color: wheat;
+}
+
+.p2 {
+    background-color: antiquewhite;
+    padding-bottom: 10px;
+    font-size: 20px;
