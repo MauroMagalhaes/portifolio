@@ -1,1 +1,46 @@
+<style>
+body{
+    background-color: rgb(219, 227, 228);
+}
+#h1{
+    color: white;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+#titulo{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.minha-class{
+    
+    font-size: 20px;
+    color:royalblue
+    ;
+}
+.p2{
+background-color: antiquewhite;
+}
+#background{
+
+background-color: black;
+}
+
+
+#h2_habilidades{
+
+    font-size: 15px;
+}
+.format_img{
+
+    width: 300px;
+    border-radius: 120px;
+}
+.text_title{
+    text-align: center;
+    font-size: 20px;
+
+}
 
