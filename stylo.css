@@ -30,6 +30,14 @@ body {
     
 
 }
+#habilidade-align{
+
+    text-align: center;
+}
+.ul-habilidades{
+    padding-right: 40px;
+    display: inline-block;
+}
 #header-text {
 
     text-align: center;
@@ -60,7 +68,7 @@ body {
     background-color: rgb(161, 165, 163);
 }
 #hobby-content{
-
+    
     background-color: rgb(163, 221, 163);
 
 }
@@ -82,12 +90,19 @@ body {
     font-size: 20px;
 }
 
-#contact-content{
+.li{
+    margin-right: 30px;
+    padding: 5px;
+    display: inline-block;
 
+}
+#contact-content{
     text-align: center;
     
 }
+
 .contact-align{
+  
     
     display:inline-block;
     width: 33%;
