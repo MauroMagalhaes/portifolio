@@ -57,11 +57,18 @@ body {
 .text_title {
     text-align: center;
     font-size: 20px;
+    background-color: rgb(161, 165, 163);
+}
+#hobby-content{
+
+    background-color: rgb(163, 221, 163);
 
 }
-.hobbyes-content{
+.hobbyes-align{
 
     text-align: center;
+    display: inline-block;
+    width: 33%;
 }
 .minha-class {
 
@@ -73,3 +80,15 @@ body {
     background-color: antiquewhite;
     padding-bottom: 10px;
     font-size: 20px;
+}
+
+#contact-content{
+
+    text-align: center;
+    
+}
+.contact-align{
+    
+    display:inline-block;
+    width: 33%;
+}
